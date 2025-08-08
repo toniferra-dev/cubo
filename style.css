@@ -1,0 +1,8 @@
+p{
+    columns: auto 300px;
+    break-inside: avoid
+}
+
+.zona {
+    break-before: column;
+}
